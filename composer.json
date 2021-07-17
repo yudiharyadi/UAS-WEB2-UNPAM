@@ -1,0 +1,12 @@
+{
+    "name": "tera/uas_web",
+    "authors": [
+        {
+            "name": "Teuku Raja",
+            "email": "teramuza@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
